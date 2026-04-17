@@ -19,3 +19,8 @@ Main and Sub Branches.
 RIP Protocol:
 This protocol is used to introduce the networks on the main router
 which then allows the access to communicate.
+Software Requirements:
+❖ Operating system
+ Windows 10, 8, 7
+❖ IDE
+Cisco Packet Tracer
